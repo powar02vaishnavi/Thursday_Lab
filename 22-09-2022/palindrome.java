@@ -1,7 +1,7 @@
 //Write a program to accept a number from the user and check if a given number is palindrome or not.
 
 import java.util.Scanner;                               // Import the Scanner class
-public class palindrome  {                              // A palindromic number is the same number that is read forward and backwards.
+public class palindrome{                              // A palindromic number is the same number that is read forward and backwards.
     public static void main(String args[])
     {
 	 Scanner in = new Scanner(System.in);                // Create a Scanner object
