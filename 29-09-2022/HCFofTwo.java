@@ -5,6 +5,7 @@ Lab QUE2:Write a program to calculate HCF of Two given number.
 
 import java.util.*;
 public class HCFofTwo {
+	//HCF or highest common factor is the factor of any two or more numbers, which are common among them
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
