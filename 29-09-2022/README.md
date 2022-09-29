@@ -22,9 +22,13 @@ array numbers.
 Example:
 
     Input
+    
     Enter size of the Array : 5 (rows are cols are same here)
+    
     Enter first character : @
+    
     Enter second character : *
+    
     Enter third character : #
 
     Output
